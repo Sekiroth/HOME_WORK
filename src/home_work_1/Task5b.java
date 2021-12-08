@@ -1,6 +1,6 @@
 package home_work_1;
 import java.util.Scanner;
-public class Task3b {
+public class Task5b {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Введи имя: ");
