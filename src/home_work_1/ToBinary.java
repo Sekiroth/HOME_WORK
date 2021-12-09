@@ -1,18 +1,39 @@
 package home_work_1;
 import java.util.Scanner;
 public class ToBinary {
-    static void print(int[] bin) {
+    static void printForPos(int[] bin) {
         for (int ii = 7; ii >= 0; ii--) {
             System.out.print(bin[ii]);
         }
     }
+    static void printForNeg(int[] bin) {
+        for (int ii = 7; ii >= 0; ii--) {
+            if (bin[ii] == 0) {
+                bin[ii] = bin[ii] + 1;
+                System.out.print(bin[ii]);
+            }
+            else {
+                bin[ii] = bin[ii] - 1;
+                System.out.print(bin[ii]);
+            }
+        }
+    }
     public static void convert(int num){
         int[] bin = new int[8];
-        for (int i = 0; i < bin.length; i++) {
-            bin[i] = num % 2;
-            num = num / 2;
+        if (num >= 0) {
+            for (int i = 0; i < bin.length; i++) {
+                bin[i] = num % 2;
+                num = num / 2;
+            }
+            printForPos(bin);
         }
-        print(bin);
+        else {
+            for (int i = 0; i < bin.length; i++) {
+                bin[i] = (Math.abs(num) % 2);
+                num = num / 2;
+            }
+            printForNeg(bin);
+        }
     }
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -20,3 +41,4 @@ public class ToBinary {
         convert(in.nextInt());
     }
 }
+
