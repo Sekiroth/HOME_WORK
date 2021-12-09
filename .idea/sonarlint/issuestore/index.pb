@@ -1,7 +1,9 @@
 
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-J
-src/home_work_1/Task1.java,3\b\3b0251c97b5c9bb1bae231048b950a8a00cb19a9
-J
-src/home_work_1/Task2.java,9\9\9915c87dbf6598788129bf5dd357f47382fc3cb0
+K
+src/home_work_1/Task5c.java,0\f\0f2ee6fe325245862549fdc83cf52ae0c2a75ffc
+K
+src/home_work_1/Task5b.java,d\6\d679b32818dc8db6733705769fbba686e0fe514f
+K
+src/home_work_1/Task5a.java,d\4\d44118f2125234a251b981ba7b86462f3c800712

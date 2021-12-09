@@ -1,13 +1,0 @@
-
-W
-java:S1854."5Remove this useless assignment to local variable "f".(”Ë—Çûÿÿÿÿ8í‘§’Ù/
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ù×ßéúÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(„ğáˆûÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ıö•
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ş±ßİ
-S	java:S106""9Replace this use of System.out or System.err by a logger.(§ËËºøÿÿÿÿ
-S	java:S106("9Replace this use of System.out or System.err by a logger.(Æğâ–ÿÿÿÿÿ
-H
-java:S1481."&Remove this unused "f" local variable.(”Ë—Çûÿÿÿÿ8ı‘§’Ù/
-X	java:S125/"<This block of commented-out lines of code should be removed.(èäÅ²8ı‘§’Ù/
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çê³Şÿÿÿÿÿ
