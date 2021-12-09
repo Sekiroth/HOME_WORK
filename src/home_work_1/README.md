@@ -10,4 +10,4 @@ Task5b = 5.2;
 
 Task5c = 5.3;
 
-etc...
+ToBinary = 7;
