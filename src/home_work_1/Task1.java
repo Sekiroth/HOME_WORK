@@ -1,4 +1,4 @@
-package home_work_1;
+package homeWork1;
 public class Task1 {
     public static void main(String[] args) {
         //возможные побитовые операции с числами 42 и 15:

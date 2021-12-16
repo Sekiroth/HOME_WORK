@@ -1,8 +1,8 @@
-package homeWork2;
-import homeWork2.arrays.ArraysUtils;
+package home_work_2;
+import home_work_2.arrays.ArraysUtils;
 
 import java.util.Arrays;
-import java.lang.reflect.Method;
+
 public class SortsUtils {
     public static void main(String[] args) {
         int[] a = {1,2,3,4,5,6};                     // 4.3

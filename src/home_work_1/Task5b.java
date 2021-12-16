@@ -1,4 +1,4 @@
-package home_work_1;
+package homeWork1;
 import java.util.Scanner;
 public class Task5b {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package homeWork2.arrays;
+package home_work_2.arrays;
 import java.util.Scanner;
 import java.util.Arrays;
 import java.util.Random;
