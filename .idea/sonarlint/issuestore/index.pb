@@ -1,9 +1,29 @@
 
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 K
 src/home_work_1/Task5c.java,0\f\0f2ee6fe325245862549fdc83cf52ae0c2a75ffc
 K
 src/home_work_1/Task5b.java,d\6\d679b32818dc8db6733705769fbba686e0fe514f
 K
 src/home_work_1/Task5a.java,d\4\d44118f2125234a251b981ba7b86462f3c800712
+J
+src/home_work_1/Task2.java,9\9\9915c87dbf6598788129bf5dd357f47382fc3cb0
+J
+src/home_work_1/Task1.java,3\b\3b0251c97b5c9bb1bae231048b950a8a00cb19a9
+M
+src/home_work_1/ToBinary.java,d\2\d281269f28dd2415c6a294d8245191c3bfd4087e
+I
+src/home_work_1/README.md,3\8\38fc5560c976af841b1cdfacaeb56e66f2d936fb
+U
+%src/home_work_2/sorts/SortsUtils.java,e\3\e3c965ebc4b6b8c3c4aaef56323f9963b7cea40f
+R
+"src/home_work_2/loops/Task1_2.java,7\7\77a4433df5dc92d77883c5f02519fd41ec5fc260
+R
+"src/home_work_2/loops/Task1_3.java,4\b\4b55e360637af88c07eb42d53cb8427b6d85e382
+R
+"src/home_work_2/loops/Task1_5.java,3\4\34bfecaa5ff47561242ab1a3b8a9049adb962f17
+T
+$src/home_work_2/loops/Task1_5_2.java,c\9\c9e0c1a93e74410895a33c801a5e4bce1ba02015
+R
+"src/home_work_2/loops/Task1_4.java,5\9\59cb0ab6585b100283c3a5599380977893436a45
+\
+,src/home_work_2/arrays/IArraysOperation.java,6\4\64f49c9cc871e17e37ce2e6c7198cbb4894815ea

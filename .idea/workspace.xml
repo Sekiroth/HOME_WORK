@@ -6,22 +6,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e15f723-7383-451e-8b90-d24194e1df08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f2ee6fe325245862549fdc83cf52ae0c2a75ffc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d44118f2125234a251b981ba7b86462f3c800712" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d679b32818dc8db6733705769fbba686e0fe514f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b0251c97b5c9bb1bae231048b950a8a00cb19a9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_1/MyDay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_1/MyDay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_1/MyDay.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_1/Task3a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_1/Task5a.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_1/Task3b.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_1/Task5b.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_1/Task3c.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_1/Task5c.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_1/MyDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/home_work_1/MyDay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/home_work_1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_1/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_1/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home_work_1/MyDay.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/home_work_1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/home_work_1/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/home_work_1/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/home_work_1/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/home_work_1/Task5a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/home_work_1/Task5a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home_work_1/Task5b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/home_work_1/Task5b.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home_work_1/Task5c.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/home_work_1/Task5c.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home_work_1/ToBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/home_work_1/ToBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home_work_2/arrays/ArraysUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home_work_2/arrays/ArraysUtilsInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home_work_2/loops/Task1_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home_work_2/loops/Task1_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home_work_2/loops/Task1_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home_work_2/loops/Task1_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home_work_2/loops/Task1_5_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home_work_2/sorts/SortsUtils.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +37,24 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/home_work_2/sorts/SortsUtils.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -45,6 +63,9 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="21vTEsvNPgwxrXS59oFrgHKMkqX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,14 +78,21 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
-  <component name="RunManager" selected="Application.Task1">
-    <configuration name="MyDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="home_work_1.MyDay" />
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="?" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Task1_1">
+    <configuration name="Task1_1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="home_work_2.loops.Task1_1" />
       <module name="HOME_WORK" />
+      <option name="PROGRAM_PARAMETERS" value="4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="home_work_1.*" />
+          <option name="PATTERN" value="home_work_2.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +100,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="home_work_1.PhoneNumber" />
+    <configuration name="Task1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work_2.loops.Task1_1" />
       <module name="HOME_WORK" />
+      <option name="PROGRAM_PARAMETERS" value="4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="home_work_1.*" />
+          <option name="PATTERN" value="home_work_2.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Room" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="home_work_1.Room" />
+    <configuration name="Task1_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work_2.loops.Task1_3" />
       <module name="HOME_WORK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="home_work_1.*" />
+          <option name="PATTERN" value="home_work_2.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="home_work_1.Task1" />
+    <configuration name="Task1_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work_2.loops.Task1_4" />
       <module name="HOME_WORK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="home_work_1.*" />
+          <option name="PATTERN" value="home_work_2.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="myDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="home_work_1.myDay" />
+    <configuration name="Task1_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work_2.loops.Task1_5" />
       <module name="HOME_WORK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="home_work_1.*" />
+          <option name="PATTERN" value="home_work_2.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,13 +153,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task1_5_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work_2.loops.Task1_5_2" />
+      <module name="HOME_WORK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home_work_2.loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work_2.arrays.Task2_4" />
+      <module name="HOME_WORK" />
+      <option name="PROGRAM_PARAMETERS" value="7 50" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home_work_2.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Task1_1" />
+      <item itemvalue="Application.Task1_3" />
+      <item itemvalue="Application.Task1_4" />
+      <item itemvalue="Application.Task1_5_2" />
+      <item itemvalue="Application.Task1_5" />
+      <item itemvalue="Application.Task2_4" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.MyDay" />
-        <item itemvalue="Application.Room" />
-        <item itemvalue="Application.PhoneNumber" />
-        <item itemvalue="Application.myDay" />
+        <item itemvalue="Application.Task2_4" />
+        <item itemvalue="Application.Task1_5" />
+        <item itemvalue="Application.Task1_5_2" />
+        <item itemvalue="Application.Task1_4" />
+        <item itemvalue="Application.Task1_3" />
       </list>
     </recent_temporary>
   </component>

@@ -7,7 +7,9 @@ public class ArraysUtils {
     public static void main(String[] args) {
         int[] container = arrayFromConsole();
         System.out.println(Arrays.toString(container));
-        container = arrayRandom(5, 99);
+        int size = Integer.parseInt(args[0]);
+        int maxValueExclusion = Integer.parseInt(args[1]);
+        container = arrayRandom(size, maxValueExclusion);
         System.out.println(Arrays.toString(container));
 
         for(int element : container){                   // 2.2.1

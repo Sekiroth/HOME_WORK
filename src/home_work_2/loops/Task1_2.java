@@ -1,20 +1,39 @@
 package home_work_2.loops;
-import java.util.Scanner;
-
 public class Task1_2 {
-    public static void main(String[] args) {
-        Scanner in = new Scanner (System.in);
-        System.out.println("Введи число: ");
-        System.out.println(convert(in.nextInt()));
-    }
-    public static int convert(int num){
-        int sum = 1;
-        int x;
-        while(num > 0){
-            x = num % 10;
-            sum = sum * x;
-            num = num / 10;
+    public static int convert(String num) {
+        int x = 0;
+        try {
+            Double.parseDouble(num);
         }
-        return sum;
+        catch (Exception e) {
+            System.out.println("Vveli nie chislo");
+            System.exit(0);
+        }
+        try {
+            x = Integer.parseInt(num);
+        }
+        catch (Exception e) {
+            System.out.println("Vveli nie tseloe chislo");
+            System.exit(0);
+        }
+        return x;
+    }
+    public static void main(String[] args) {
+        int chislo = convert(args[0]);
+        int digit;
+        int sum = 1;
+        String str = Integer.toString(chislo);
+        while(chislo > 0) {
+            digit = chislo % 10;
+            sum = sum * digit;
+            chislo = chislo / 10;
+        }
+        for(int i = 0; i < str.length(); i++){
+            System.out.print(str.charAt(i) + "  ");
+            if(i < str.length() - 1){
+                System.out.print("*  ");
+            }
+        }
+        System.out.print("=  " + sum);
     }
 }

@@ -3,7 +3,7 @@
 негативные инверсирует, но не добавляет 1 к младшему значащему разряду
 пока что мозгов не хватает решить окончательно
 */
-package homeWork1;
+package home_work_1;
 import java.util.Scanner;
 public class ToBinary {
     static void printForPos(int[] bin) {

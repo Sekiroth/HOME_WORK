@@ -1,0 +1,21 @@
+
+P
+java:S18548"5Remove this useless assignment to local variable "f".(”Ë—Çûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Á¡
+N	java:S106"9Replace this use of System.out or System.err by a logger.(êš½
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±ùñÖ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ãæ­ˆ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¡ô×Îúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(óÎüÂ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ïú¦Àüÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ÛŞ»×úÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(£‹ş¥
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(äÖ¥Ÿøÿÿÿÿ
+M	java:S1063"9Replace this use of System.out or System.err by a logger.(¸®¤
+N	java:S1064"9Replace this use of System.out or System.err by a logger.( ÷¡Ğ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(„«¶êşÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(½‰Úœøÿÿÿÿ
+A
+java:S14818"&Remove this unused "f" local variable.(”Ë—Çûÿÿÿÿ
+Q	java:S1259"<This block of commented-out lines of code should be removed.(èäÅ²
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çê³Şÿÿÿÿÿ

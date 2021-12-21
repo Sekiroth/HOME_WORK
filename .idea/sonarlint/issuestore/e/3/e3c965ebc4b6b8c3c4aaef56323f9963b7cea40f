@@ -1,0 +1,19 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Èõ”Ëıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÊœ¢
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ö–£
+M	java:S106"9Replace this use of System.out or System.err by a logger.(†ªáB
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³îëÄ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªŠ¿üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ë¹Ş¹şÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(œÆa
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ğûĞì
+M	java:S106 "9Replace this use of System.out or System.err by a logger.(íùçK
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ôª­óüÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(£¼®
+S	java:S106("9Replace this use of System.out or System.err by a logger.(„şÄóüÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(¿Ú£˜úÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(•¯á
+¦
+java:S1598"ŠThis file "SortsUtils.java" should be located in "home_work_2" directory, not in "C:\Users\Ammon\Desktop\HOME_WORK\src\home_work_2\sorts".(Ë„Ç‡ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë„Ç‡ÿÿÿÿÿ
