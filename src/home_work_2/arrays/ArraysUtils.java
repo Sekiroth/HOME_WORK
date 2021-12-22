@@ -15,20 +15,80 @@ public class ArraysUtils {
         for(int element : container){                   // 2.2.1
             System.out.print(element + "  ");
         }
-
+        int i = 0;
         System.out.println("\n");
-
-        for(int k = 0; k < container.length; k = k + 2){      // 2.2.2
-            System.out.print(container[k] + "  ");
+        do {
+            System.out.print(container[i] + "  ");
+            i++;
+        } while(i < container.length);
+        System.out.println("\n");
+        for(i = 0; i < container.length; i++) {
+            System.out.print(container[i] + "  ");
+        }
+        i = 0;
+        System.out.println("\n");
+        while(i < container.length) {
+            System.out.print(container[i] + "  ");
+            i++;
         }
 
+        System.out.println("\n" + "====================");
+
+        for(int k = 0; k < container.length - 1; k = k + 2){      // 2.2.2
+            System.out.print(container[k] + "  ");
+        }
         System.out.println("\n");
+        int k = 0;
+        for(int num : container) {
+            if(k % 2 == 0) {
+                System.out.print(num + "  ");
+            }
+            k++;
+        }
+        System.out.println("\n");
+        k = 0;
+        while(k < container.length - 1) {
+            System.out.print(container[k] + "  ");
+            k = k + 2;
+        }
+        System.out.println("\n");
+        k = 0;
+        do {
+            System.out.print(container[k] + "  ");
+            k = k + 2;
+        } while(k < container.length - 1);
+
+        System.out.println("\n" + "====================");
 
         int h = container.length - 1;                     // 2.2.3
         while(h >= 0){
             System.out.print(container[h] + "  ");
             h--;
         }
+
+        System.out.println("\n");
+        h = container.length - 1;
+        do {
+            System.out.print(container[h] + "  ");
+            h--;
+        } while(h >= 0);
+        System.out.println("\n");
+
+        for(int c = container.length - 1; c >= 0; c--) {
+            System.out.print(container[c] + "  ");
+        }
+
+        System.out.println("\n");
+        int[] contra = new int[container.length];
+        int m = 0;
+        for(int c = container.length - 1; c >= 0; c--) {
+            contra[m] = container[c];
+            m++;
+        }
+        for(int num : contra) {
+            System.out.print(num + "  ");
+        }
+
     }
     public static int[] arrayFromConsole(){           // 2.1.1
         Scanner in = new Scanner(System.in);
