@@ -9,11 +9,10 @@ public class EasySearch implements ISearchEngine {
         long count = 0;
         int i = 0;
         while (i >= 0) {
-            if (i >= 0) {
+            if(i >= 0) {
                 i++;
             }
-            i = text.indexOf(word, i);
-            if (i > 0) {
+            if ((i = text.indexOf(word, i)) >= 0) {
                 count++;
             }
         }
