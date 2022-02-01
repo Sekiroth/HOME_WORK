@@ -6,28 +6,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e15f723-7383-451e-8b90-d24194e1df08" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/64f49c9cc871e17e37ce2e6c7198cbb4894815ea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3c965ebc4b6b8c3c4aaef56323f9963b7cea40f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3c965ebc4b6b8c3c4aaef56323f9963b7cea40f" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_1/MyDay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_1/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_1/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_1/MyDay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/home_work_1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_1/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/home_work_1/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_1/Task5a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/home_work_1/Task5a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_1/Task5b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/home_work_1/Task5b.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_1/Task5c.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/home_work_1/Task5c.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_1/ToBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/home_work_1/ToBinary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_2/arrays/ArraysUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_2/arrays/ArraysUtilsInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_2/loops/Task1_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_2/loops/Task1_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_2/loops/Task1_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_2/loops/Task1_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_2/loops/Task1_5_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_2/sorts/SortsUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_1/Task5a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_1/Task5a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_2/arrays/ArraysUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_2/arrays/ArraysUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_2/arrays/DoWhileOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_2/arrays/IArraysOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_2/loops/Task1_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HOME_WORK/home_work_2/loops/Task1_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home_work_3/additional/CalculatorWithCounterAutoAggregation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/home_work_3/additional/CalculatorWithCounterAutoAggregation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home_work_3/runners/CalculatorDecoratorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/home_work_3/runners/CalculatorDecoratorMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home_work_3/runners/CalculatorWithCounterAutoCompositeInterfaceMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/home_work_3/runners/CalculatorWithCounterAutoCompositeInterfaceMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,14 +75,13 @@
       <command value="?" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task1_1">
-    <configuration name="Task1_1" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="home_work_2.loops.Task1_1" />
+  <component name="RunManager" selected="Application.Main1">
+    <configuration name="CalculatorAdapterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work_3.runners.CalculatorAdapterMain" />
       <module name="HOME_WORK" />
-      <option name="PROGRAM_PARAMETERS" value="4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="home_work_2.loops.*" />
+          <option name="PATTERN" value="home_work_3.runners.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,13 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="home_work_2.loops.Task1_1" />
+    <configuration name="CalculatorDecoratorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work_3.runners.CalculatorDecoratorMain" />
       <module name="HOME_WORK" />
-      <option name="PROGRAM_PARAMETERS" value="4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="home_work_2.loops.*" />
+          <option name="PATTERN" value="home_work_3.runners.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="home_work_2.loops.Task1_3" />
+    <configuration name="DataContainerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work_4.DataContainerMain" />
       <module name="HOME_WORK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="home_work_2.loops.*" />
+          <option name="PATTERN" value="home_work_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="home_work_2.loops.Task1_4" />
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work_5.Main1" />
       <module name="HOME_WORK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="home_work_2.loops.*" />
+          <option name="PATTERN" value="home_work_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="home_work_2.loops.Task1_5" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work_5.Main2" />
       <module name="HOME_WORK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="home_work_2.loops.*" />
+          <option name="PATTERN" value="home_work_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,48 +141,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1_5_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="home_work_2.loops.Task1_5_2" />
-      <module name="HOME_WORK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="home_work_2.loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task2_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="home_work_2.arrays.Task2_4" />
-      <module name="HOME_WORK" />
-      <option name="PROGRAM_PARAMETERS" value="7 50" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="home_work_2.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Task1_1" />
-      <item itemvalue="Application.Task1_3" />
-      <item itemvalue="Application.Task1_4" />
-      <item itemvalue="Application.Task1_5_2" />
-      <item itemvalue="Application.Task1_5" />
-      <item itemvalue="Application.Task2_4" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task2_4" />
-        <item itemvalue="Application.Task1_5" />
-        <item itemvalue="Application.Task1_5_2" />
-        <item itemvalue="Application.Task1_4" />
-        <item itemvalue="Application.Task1_3" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.DataContainerMain" />
+        <item itemvalue="Application.CalculatorAdapterMain" />
+        <item itemvalue="Application.CalculatorDecoratorMain" />
       </list>
     </recent_temporary>
   </component>
@@ -219,5 +172,31 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/home_work_3/runners/CalculatorAdapterMain.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/home_work_3/adapter/CalculatorAdapter.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/home_work_3/adapter/handlers/AdditionHandler.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/home_work_5/Main1.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

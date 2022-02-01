@@ -1,0 +1,6 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(άνΞ8υγ±γή/
+X	java:S125"<This block of commented-out lines of code should be removed.(γ–¥8υγ±γή/
+_
+java:S2184"BCast one of the operands of this division operation to a "double".(άνΞ8™‹΄γή/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(μΘϊςόÿÿÿÿ

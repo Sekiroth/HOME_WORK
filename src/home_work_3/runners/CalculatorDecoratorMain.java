@@ -9,13 +9,15 @@ public class CalculatorDecoratorMain {
     public static void main(String[] args) {
         ICalculator calc = new CalculatorWithCounterAutoDecorator(new CalculatorWithMemoryDecorator(new CalculatorWithMathExtends()));
 //        4.1 + 15 * 7 + (28 / 5) ^ 2
-        CalculatorWithCounterAutoDecorator c = (CalculatorWithCounterAutoDecorator) calc;
+//        CalculatorWithCounterAutoDecorator c = (CalculatorWithCounterAutoDecorator) calc;
         double one = calc.division(28 , 5);
         double two = calc.toPower(one, 2);
         double three = calc.multiplication(15, 7);
+//        ((CalculatorWithMemoryDecorator) ((CalculatorWithCounterAutoDecorator)calc)).recordLastValue();
+        System.out.println(((CalculatorWithMemoryDecorator) ((CalculatorWithCounterAutoDecorator)calc).getCalculator()).getLastValue());
         double four = calc.addition(two, three);
         double five = calc.addition(four, 4.1);
         System.out.println(five);
-        System.out.println(c.getCountOperation());
+        System.out.println(((CalculatorWithCounterAutoDecorator)calc).getCountOperation());
     }
 }

@@ -5,19 +5,25 @@ import home_work_3.cals.simple.CalculatorWithMathExtends;
 import home_work_3.cals.simple.CalculatorWithOperator;
 
 public class CalculatorWithCounterAutoAggregation {
-    CalculatorWithMathCopy someMath;
-    CalculatorWithOperator someMathAgain;
-    CalculatorWithMathExtends someMathAgainAndAgain;
+    private final CalculatorWithMathCopy someMath;
+    private final CalculatorWithOperator someMathAgain;
+    private final CalculatorWithMathExtends someMathAgainAndAgain;
     private long count = 0;
 
     public CalculatorWithCounterAutoAggregation(CalculatorWithMathCopy someMath) {
         this.someMath = someMath;
+        this.someMathAgain = null;
+        this.someMathAgainAndAgain = null;
     }
     public CalculatorWithCounterAutoAggregation(CalculatorWithOperator someMathAgain) {
         this.someMathAgain = someMathAgain;
+        this.someMath = null;
+        this.someMathAgainAndAgain = null;
     }
     public CalculatorWithCounterAutoAggregation(CalculatorWithMathExtends someMathAgainAndAgain) {
         this.someMathAgainAndAgain = someMathAgainAndAgain;
+        this.someMathAgain = null;
+        this.someMath = null;
     }
     public long getCountOperation() {
         return count;
@@ -25,9 +31,12 @@ public class CalculatorWithCounterAutoAggregation {
     public void incrementCountOperation() {
         count++;
     }
+
     public double squareRoot(double a) {
         incrementCountOperation();
-        return someMath.squareRoot(a);
+        if (someMath != null) return someMath.squareRoot(a);
+        else if (someMathAgain != null) return someMathAgain.squareRoot(a);
+        return someMathAgainAndAgain.squareRoot(a);
     }
     public double addition(double a, double b) {
         incrementCountOperation();
