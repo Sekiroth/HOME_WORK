@@ -21,7 +21,7 @@ public class LoadBook {
     }
 
     public LoadBook() throws IOException{
-        this.text = load("book.txt");
+        this.text = load("война и мир.txt");
         this.list = getList();
         this.set = getSet();
     }
@@ -86,5 +86,9 @@ public class LoadBook {
             topN--;
         }
         return null;
+    }
+
+    public String[] getText() {
+        return text;
     }
 }
