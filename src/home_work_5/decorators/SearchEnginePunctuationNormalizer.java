@@ -26,7 +26,7 @@ public class SearchEnginePunctuationNormalizer implements ISearchEngine {
             String line = scanner.nextLine();
             line = line.replaceAll("[$&+,:;=?@#|'<>.^*()%!\"]", "");
             line = line.replace("--", "");
-            for (String s : line.split(" ")) {
+            for (String s : line.split(" +")) {
                 if (s != null) {
                     s = s.trim();
                     if (s.length() > 0) {
